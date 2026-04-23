@@ -2,6 +2,8 @@
 <h3>nireshma r</h3>
 <h2>program:</h2>
 ```
+
+
 import { AnimatePresence, motion } from 'framer-motion'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import Layout from './components/Layout'
@@ -32,6 +34,7 @@ function App() {
 }
 
 export default App
+
 ```
 
 output:
