@@ -24,6 +24,8 @@ A responsive personal portfolio website built using React and Vite to showcase m
  https://nireshmaravi.netlify.app
 
  ##output
+ <img width="1911" height="965" alt="Screenshot 2026-04-23 210503" src="https://github.com/user-attachments/assets/dde5e2a9-1b5f-49e5-a9b8-9c52a909d687" />
+
  <img width="1797" height="778" alt="Screenshot 2026-04-23 210652" src="https://github.com/user-attachments/assets/f25b411c-dc30-4915-b3e6-d3eff01defc9" />
 
 
