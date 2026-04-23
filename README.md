@@ -1,7 +1,7 @@
 <h1>portfolio</h1>
 <h3>nireshma r</h3>
 <h2>program:</h2>
-```
+```jsx
 
 
 import { AnimatePresence, motion } from 'framer-motion'
@@ -37,6 +37,6 @@ export default App
 
 ```
 
-output:
+##output:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11922249-77f8-4dd9-8cab-4f742d201837" />
